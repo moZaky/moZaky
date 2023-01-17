@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CurePlus by Exsys, Intranet Portal by LinkDevelopment**
+- 🔭 I’m currently working on **ATLP, in AD Ports group **
 
-- 🌱 I’m currently learning **SiteCore CMS, VueJs**
+- 🌱 I’m currently learning ** Kubernetes , microservices, adv. Net topics**
 
 - 💬 Ask me about **react, angular, C#, .NET, CMS**
 
