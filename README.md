@@ -16,7 +16,7 @@
 - 📫 How to reach me **m.zaki.elkassed@gmail.com**
 - 📝 Blog <a href="https://dev.to/mozaky/"> https://dev.to/mozaky/</a>
 
-https://dev.to/mozaky/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
