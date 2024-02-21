@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Zaky</h1>
 <h3 align="center">A passionate full stack developer from Egypt, Living in UAE</h3>
-
+<a href="https://app.daily.dev/mozaky"><img src="https://api.daily.dev/devcards/v2/IiGq9jorM.png?type=default&r=euh" width="356" alt="Mohammed Zaki's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mozaky&label=Profile%20views&color=0e75b6&style=flat" alt="mozaky" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozaky" alt="mozaky" /></a> </p>
